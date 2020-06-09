@@ -1,0 +1,8 @@
+{
+    "editor.defaultFormatter": "ms-vscode.Go",
+    "[go]": {
+        "editor.formatOnSave": true
+    },
+    "editor.fontSize": 18,
+    "debug.console.fontSize": 18
+}
